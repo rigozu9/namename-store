@@ -1,35 +1,37 @@
 # Clothing Shop Marketplace
 
-A sleek and modern **clothing shop** built as part of the [NameName Marketplace](https://namename-store.onrender.com/).  
+A sleek and modern **clothing shop** built for [NameName Marketplace](https://www.instagram.com/namenamestore/).  
 This project showcases a fully functional clothing store, developed using **React** and customized from Sharetribe's bike shop web template.  
 
-The marketplace aimed to provide a platform for **undiscovered brands** to showcase and sell their clothing, with NameName earning a commission on each sale.
+While the project is no longer operational, you can access the demo here: [NameName Store](https://namename-store.onrender.com/).
+
+The marketplace was designed to provide a platform for **undiscovered brands** to showcase and sell their clothing, with NameName earning a commission on each sale.
 
 ---
 
 ## Features
 
-- **Responsive React Frontend**: An engaging and user-friendly interface for seamless browsing and interaction.
-- **Redux for State Management**: Ensures efficient handling of application state for a smoother user experience.
-- **Sharetribe Integration**: Customized from Sharetribe's bike shop template to suit clothing marketplace requirements.
-- **Deployed on Render**: The project is live and accessible at [NameName Store](https://namename-store.onrender.com/).
+- **Responsive React Frontend**: Delivers an engaging and user-friendly interface for seamless browsing and interaction.
+- **Redux for State Management**: Efficiently manages the application state, ensuring a smoother user experience.
+- **Sharetribe Integration**: Adapted from Sharetribe's bike shop template to meet the specific needs of a clothing marketplace.
+- **Deployed on Render**: The live demo is hosted on Render and accessible at [NameName Store](https://namename-store.onrender.com/).
 
 ---
 
 ## Current Status
 
-The marketplace was operational last year, but its functionality has since been **shut down**.  
-While purchases can no longer be made, the website remains live as a demonstration of the project.
+The marketplace was fully operational last year but has since been **shut down**.  
+Although purchases are no longer possible, the website remains live as a demonstration of the project.
 
 ---
 
 ## Tech Stack
 
-- **React**: Framework for both frontend and backend development.
-- **Redux**: Used for efficient state management across the application.
-- **Sharetribe Web Template**: Modified from Sharetribe's bike shop template to meet the needs of a clothing marketplace.
-- **Node.js**: Provides server-side rendering (SSR) for the application.
-- **Render**: Cloud hosting platform for deployment.
+- **React**: Framework for building the frontend and backend.
+- **Redux**: Enables efficient state management throughout the application.
+- **Sharetribe Web Template**: A starting point for customization, tailored to a clothing marketplace from the original bike shop template.
+- **Node.js**: Powers server-side rendering (SSR) for improved performance and SEO.
+- **Render**: Cloud hosting platform for deployment and live demo hosting.
 
 > Template provided by [Sharetribe](https://www.sharetribe.com/rental-marketplace/).
 
@@ -37,5 +39,5 @@ While purchases can no longer be made, the website remains live as a demonstrati
 
 ## Accessing the Project
 
-The full project is hosted in a **private GitHub repository**, but I am happy to share it privately upon request.  
-Feel free to reach out if you'd like a closer look or have any questions about the project!
+The full project is hosted in a **private GitHub repository**, but I’m happy to share it privately upon request.  
+Feel free to reach out if you’d like a closer look or have any questions about the project!
